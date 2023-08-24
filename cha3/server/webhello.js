@@ -50,7 +50,7 @@ function capitalize(str) {
 // c. process.argument d. process.env
 // 4. Which Node.js object property returns environment variables?
 // a. process.env
-// b. process.envv
+// b. process.
 // c. process.environment d. process.arg
 // 5. Can you launch multiple instances of the same Node.js app to improve resilience and performance?
 
