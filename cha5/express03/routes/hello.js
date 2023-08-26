@@ -1,7 +1,6 @@
 // /hello/ route
 import { Router } from "express";
-import { hello } from "../lib/locale.js";
-import { goodbye } from "../lib/locale.js";
+import { hello, goodbye } from "../lib/locale.js";
 import { capitalize } from "../lib/string.js";
 
 export const helloRouter = Router();
