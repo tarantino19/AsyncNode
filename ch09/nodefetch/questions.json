@@ -1,0 +1,38 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+    "correct_answer": "Feiji",
+    "incorrect_answers": [
+      "Qiche",
+      "Zongxian",
+      "Huojian"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Harvard architecture for micro-controllers added which additional bus?",
+    "correct_answer": "Instruction",
+    "incorrect_answers": [
+      "Address",
+      "Data",
+      "Control"
+    ]
+  },
+  {
+    "category": "Science: Gadgets",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the &quot;Mitsubishi Wakamaru&quot;?",
+    "correct_answer": "A robot",
+    "incorrect_answers": [
+      "A pickup truck",
+      "An motorcycle",
+      "A motorboat"
+    ]
+  }
+]
